@@ -1,6 +1,14 @@
 <!-- Top Dynamic Waving Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=230&section=header&text=Welcome%20To%20My%20Universe!&fontSize=42&fontColor=58a6ff&animation=twinkling" width="100%" alt="Header Banner" />
+  <!-- ✨ Profile Picture with Glow Effect ✨ -->
+  <img src="https://i.ibb.co.com/847Jpj0t/watermarked-img-11256399587890119527.jpg" width="160" height="160" style="border-radius: 50%; border: 3px solid #58a6ff; object-fit: cover; box-shadow: 0 0 25px rgba(88, 166, 255, 0.7);" alt="Forhad Shorif Profile Picture" />
+  
+  <br>
+  
+  <!-- 🔥 Future Status with Jolmol and Hover Effects 🔥 -->
+  <a href="https://github.com/Forhad-Shorif">
+    <img src="https://github-readme-stats.vercel.app/api?username=Forhad-Shorif&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&border_radius=10&text_color=58a6ff&icon_color=ff9e64" alt="Forhad-Shorif's GitHub Stats" style="box-shadow: 0 10px 20px rgba(0,0,0,0.3); transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.03) translatey(-5px)'; this.style.boxShadow='0 20px 40px rgba(88, 166, 255, 0.6)';" onmouseout="this.style.transform='scale(1) translatey(0)'; this.style.boxShadow='0 10px 20px rgba(0,0,0,0.3)';" />
+  </a>
 </div>
 
 <br />
@@ -161,7 +169,11 @@ I am always open to discussing new web development projects, remote work opportu
 
 <br />
 
-<!-- Dynamic Animated Bottom Footer -->
+<!-- 🚀 Footer Animation: Modern and Bold 🚀 -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=120&section=footer" width="100%" />
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=33ccff&height=120&section=footer&text=Fullstack%20Development%20is%20my%20Passion!&fontSize=25&fontAlign=80&fontColor=ffffff&animation=fadeIn&stroke=33ccff&strokeWidth=1" />
+        <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=2188ff&height=120&section=footer&text=Fullstack%20Development%20is%20my%20Passion!&fontSize=25&fontAlign=80&fontColor=ffffff&animation=fadeIn&stroke=2188ff&strokeWidth=1" />
+        <img src="https://capsule-render.vercel.app/api?type=waving&color=33ccff&height=120&section=footer&text=Fullstack%20Development%20is%20my%20Passion!&fontSize=25&fontAlign=80&fontColor=ffffff&animation=fadeIn" alt="Animated Footer Wave" />
+    </picture>
 </div>
