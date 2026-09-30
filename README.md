@@ -1,15 +1,4 @@
 <!-- Top Dynamic Waving Header Banner -->
-<div align="center">
-  <!-- ✨ Profile Picture with Glow Effect ✨ -->
-  <img src="https://i.ibb.co.com/847Jpj0t/watermarked-img-11256399587890119527.jpg" width="160" height="160" style="border-radius: 50%; border: 3px solid #58a6ff; object-fit: cover; box-shadow: 0 0 25px rgba(88, 166, 255, 0.7);" alt="Forhad Shorif Profile Picture" />
-  
-  <br>
-  
-  <!-- 🔥 Future Status with Jolmol and Hover Effects 🔥 -->
-  <a href="https://github.com/Forhad-Shorif">
-    <img src="https://github-readme-stats.vercel.app/api?username=Forhad-Shorif&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&border_radius=10&text_color=58a6ff&icon_color=ff9e64" alt="Forhad-Shorif's GitHub Stats" style="box-shadow: 0 10px 20px rgba(0,0,0,0.3); transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.03) translatey(-5px)'; this.style.boxShadow='0 20px 40px rgba(88, 166, 255, 0.6)';" onmouseout="this.style.transform='scale(1) translatey(0)'; this.style.boxShadow='0 10px 20px rgba(0,0,0,0.3)';" />
-  </a>
-</div>
 
 <br />
 
