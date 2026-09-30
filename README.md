@@ -1,25 +1,41 @@
-<!-- Animated Top Header Banner -->
+<!-- Top Dynamic Waving Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=220&section=header&text=Welcome%20To%20My%20Github!&fontSize=38&fontColor=58a6ff&animation=fadeIn" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=230&section=header&text=Welcome%20To%20My%20Universe!&fontSize=42&fontColor=58a6ff&animation=twinkling" width="100%" alt="Header Banner" />
 </div>
 
 <br />
 
-<!-- Profile Header & Avatar Area -->
+<!-- Profile Header & Glowing Avatar -->
 <div align="center">
-  <!-- আপনার ছবি যোগ করতে চাইলে নিচের src="..." এর ভেতরে লিংক বসিয়ে দেবেন -->
-  <img src="https://i.ibb.co.com/x83DGp4p/watermarked-img-11256399587890119527.jpg" width="200" height="200" style="border-radius: 50%;  border: 3px solid #58a6ff; object-fit: cover;" alt="Profile Picture" />
+  <a href="YOUR_PORTFOLIO_URL">
+    <img src="https://i.ibb.co.com/x83DGp4p/watermarked-img-11256399587890119527.jpg" width="180" height="180" style="border-radius: 50%; border: 4px solid #58a6ff; box-shadow: 0 0 25px rgba(88, 166, 255, 0.6); object-fit: cover;" alt="Forhad Shorif Avatar" />
+  </a>
 
-  <h1>Hi there, I'm <a href="YOUR_PORTFOLIO_URL">Forhad Shorif</a> 👋</h1>
-  <h3>🚀 MERN Stack Specialist | Frontend & Backend Engineer</h3>
-  
-  <p><i>Crafting scalable web applications, RESTful APIs, and responsive user experiences with clean code.</i></p>
+  <br /><br />
 
-  <!-- Quick Interactive Badges -->
+  <!-- Animated Glowing Typing Header -->
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=50&lines=Hi+There!+I'm+Forhad+Shorif+👋;Full-Stack+MERN+Developer+🚀;Building+Scalable+Modern+Web+Apps+💻;Crafting+Clean+%26+Performant+Code+✨" alt="Typing Header" />
+  </a>
+
+  <p><i>Passionate Full-Stack Engineer specializing in high-performance web applications, modern architectures, and rich user experiences.</i></p>
+
+  <!-- Interactive Social Glowing Badges -->
   <p align="center">
-    <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
-    <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="YOUR_PORTFOLIO_URL">
+      <img src="https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    </a>
+    <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="mailto:your.email@gmail.com">
+      <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+  </p>
+
+  <!-- Dynamic Visitor Counter -->
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=Forhad-Shorif&label=Profile%20Views&color=58a6ff&style=flat-square" alt="Visitor Counter" />
   </p>
 </div>
 
@@ -31,76 +47,121 @@
 
 I am a results-driven **Full-Stack Web Developer** committed to modern web standards, software architecture, and continuous technical growth.
 
-- 🔭 **Core Specialization:** Modern Web Applications using MongoDB, Express.js, React, and Node.js (MERN).
-- 🌱 **Skill Expansion:** Deepening expertise in Next.js, TypeScript, and Scalable Backend Systems.
-- 🎯 **Production Standards:**
-  - ⚙️ **Git Commit Discipline:** Strict adherence to Conventional Commits (`feat:`, `fix:`, `refactor:`).
-  - 🎨 **UX Standards:** Zero placeholder content policy (No Lorem Ipsum in client builds).
-  - 🔒 **Clean Architecture:** Modular component structure, RESTful practices, and secure state handling.
+- 🔭 **Core Focus:** Building high-speed, secure web apps using **React, Next.js, Node.js, and Express**.
+- 🌱 **Current Exploration:** Microservices Architecture, Advanced TypeScript Patterns, and Backend Scaling.
+- 🎯 **Engineering Discipline:**
+  - ⚙️ **Conventional Commits:** Standardized Git history (`feat:`, `fix:`, `refactor:`).
+  - 🎨 **Zero-Placeholder UI:** Clean, pixel-perfect layout implementation with true production data.
+  - 🔒 **Clean Architecture:** Modular code design, RESTful design principles, and strict state isolation.
 
 ---
 
 ### 🛠️ Tech Stack & Capabilities
 
-#### **Frontend Ecosystem**
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
-
-#### **Backend, Databases & Cloud**
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_API-005587?style=for-the-badge&logo=json&logoColor=white" />
-</p>
-
-#### **Tooling & Environment**
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
-</p>
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="33%" valign="top">
+      <h3>🎨 Frontend Mastery</h3>
+      <p>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="36" height="36" alt="React" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="36" height="36" alt="Next.js" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="36" height="36" alt="TypeScript" />
+        <br />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="36" height="36" alt="JS" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="36" height="36" alt="Tailwind" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="36" height="36" alt="HTML5" />
+      </p>
+    </td>
+    <td align="center" width="33%" valign="top">
+      <h3>⚙️ Backend & Database</h3>
+      <p>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="36" height="36" alt="NodeJS" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="36" height="36" alt="Express" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="36" height="36" alt="MongoDB" />
+        <br />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="36" height="36" alt="Firebase" />
+        <img src="https://jwt.io/img/pic_logo.svg" width="36" height="36" alt="JWT" />
+      </p>
+    </td>
+    <td align="center" width="33%" valign="top">
+      <h3>🛠️️ Tools & Hosting</h3>
+      <p>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="36" height="36" alt="Git" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="36" height="36" alt="VSCode" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="36" height="36" alt="Postman" />
+        <br />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" width="36" height="36" alt="Vercel" />
+        <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" width="36" height="36" alt="Netlify" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 📊 GitHub Real-time Activity Metrics
+### 🚀 Hover-Card Featured Showcase
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Forhad-Shorif&show_icons=true&theme=dark&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Forhad-Shorif&layout=compact&theme=dark&hide_border=true" width="48%" alt="Top Languages" />
+  <table width="100%">
+    <tr>
+      <td width="50%" align="center">
+        <a href="YOUR_PORTFOLIO_URL">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Forhad-Shorif&repo=Dev-Stack-Showcase&theme=tokyonight&border_radius=10" width="100%" alt="Featured Repo 1" />
+        </a>
+      </td>
+      <td width="50%" align="center">
+        <a href="YOUR_PORTFOLIO_URL">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Forhad-Shorif&repo=Book-Vibe&theme=tokyonight&border_radius=10" width="100%" alt="Featured Repo 2" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+### 📊 Real-Time GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Forhad-Shorif&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&border_radius=10" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Forhad-Shorif&layout=compact&theme=tokyonight&hide_border=false&border_radius=10" width="48%" alt="Top Languages" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Forhad-Shorif&theme=dark&hide_border=true" width="97%" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Forhad-Shorif&theme=tokyonight&hide_border=false&border_radius=10" width="97%" alt="Streak Stats" />
+</div>
+
+<br />
+
+<!-- Animated Contribution Activity Snake Graph -->
+<div align="center">
+  <h3>🐍 GitHub Contribution Activity</h3>
+  <img src="https://raw.githubusercontent.com/Forhad-Shorif/Forhad-Shorif/output/github-contribution-grid-snake.svg" width="100%" alt="Snake Animation" />
 </div>
 
 ---
 
-### 🤝 Let's Connect
+### 🤝 Let's Connect & Collaborate
 
-I am actively looking for collaborative projects, remote roles, and full-stack opportunities.
+I am always open to discussing new web development projects, remote work opportunities, and software engineering initiatives.
 
-- 📧 **Email:** `your.email@gmail.com`
-- 💼 **LinkedIn:** [Your Profile Link](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
-- 🌐 **Portfolio:** [Live Portfolio Link](YOUR_PORTFOLIO_URL)
+<div align="center">
+  <a href="mailto:your.email@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="YOUR_PORTFOLIO_URL">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  </a>
+</div>
 
 <br />
 
-<!-- Animated Bottom Footer Banner -->
+<!-- Dynamic Animated Bottom Footer -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=120&section=footer" width="100%" />
 </div>
