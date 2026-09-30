@@ -8,7 +8,7 @@
 <!-- Profile Header & Avatar Area -->
 <div align="center">
   <!-- আপনার ছবি যোগ করতে চাইলে নিচের src="..." এর ভেতরে লিংক বসিয়ে দেবেন -->
-  <img src="https://ibb.co.com/PZ3tQP74](https://i.ibb.co.com/847Jpj0t/watermarked-img-11256399587890119527.jpg" width="160" height="160" style="border-radius: 50%; border: 3px solid #58a6ff; object-fit: cover;" alt="Profile Picture" />
+  <img src="https://i.ibb.co.com/847Jpj0t/watermarked-img-11256399587890119527.jpg" width="160" height="160" style="border-radius: 50%; border: 3px solid #58a6ff; object-fit: cover;" alt="Profile Picture" />
 
   <h1>Hi there, I'm <a href="YOUR_PORTFOLIO_URL">Forhad Shorif</a> 👋</h1>
   <h3>🚀 MERN Stack Specialist | Frontend & Backend Engineer</h3>
