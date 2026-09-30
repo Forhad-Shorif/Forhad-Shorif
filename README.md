@@ -1,168 +1,620 @@
-<!-- Top Dynamic Waving Header Banner -->
-
-<br />
-
-<!-- Profile Header & Glowing Avatar -->
 <div align="center">
-  <a href="YOUR_PORTFOLIO_URL">
-    <img src="https://i.ibb.co.com/x83DGp4p/watermarked-img-11256399587890119527.jpg" width="180" height="180" style="border-radius: 50%; border: 4px solid #58a6ff; box-shadow: 0 0 25px rgba(88, 166, 255, 0.6); object-fit: cover;" alt="Forhad Shorif Avatar" />
-  </a>
 
-  <br /><br />
+<!-- PROFILE IMAGE -->
 
-  <!-- Animated Glowing Typing Header -->
-  <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=50&lines=Hi+There!+I'm+Forhad+Shorif+👋;Full-Stack+MERN+Developer+🚀;Building+Scalable+Modern+Web+Apps+💻;Crafting+Clean+%26+Performant+Code+✨" alt="Typing Header" />
-  </a>
+<img
+src="https://i.ibb.co.com/x83DGp4p/watermarked-img-11256399587890119527.jpg"
+width="175"
+height="175"
+style="border-radius:50%;"
+alt="Forhad Shorif"
+/>
 
-  <p><i>Passionate Full-Stack Engineer specializing in high-performance web applications, modern architectures, and rich user experiences.</i></p>
+<br/><br/>
 
-  <!-- Interactive Social Glowing Badges -->
-  <p align="center">
-    <a href="YOUR_PORTFOLIO_URL">
-      <img src="https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    </a>
-    <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="mailto:your.email@gmail.com">
-      <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-  </p>
+<!-- TYPING HEADER -->
 
-  <!-- Dynamic Visitor Counter -->
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=Forhad-Shorif&label=Profile%20Views&color=58a6ff&style=flat-square" alt="Visitor Counter" />
-  </p>
+<img
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&height=60&lines=Hi+There!+I'm+Forhad+Shorif+%F0%9F%91%8B;Full-Stack+Web+Developer+%F0%9F%9A%80;React+%7C+Next.js+%7C+TypeScript;Building+Modern+Web+Applications+%F0%9F%92%BB;Learning+Today%2C+Building+Tomorrow+%E2%9C%A8"
+alt="Typing SVG"
+/>
+
+<br/>
+
+<p>
+  <strong>Full-Stack Web Developer</strong>
+  <br/>
+  Building clean, responsive and modern web experiences.
+</p>
+
+<br/>
+
+<!-- SOCIAL BUTTONS -->
+
+<a href="YOUR_PORTFOLIO_URL">
+  <img src="https://img.shields.io/badge/🌐%20PORTFOLIO-0D1117?style=for-the-badge&logoColor=58A6FF"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+  <img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+</a>
+
+<a href="mailto:your.email@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=D14836"/>
+</a>
+
+<br/><br/>
+
+<img
+src="https://komarev.com/ghpvc/?username=Forhad-Shorif&label=PROFILE%20VIEWS&color=58A6FF&style=for-the-badge"
+alt="Profile Views"
+/>
+
 </div>
 
-<br />
+<br/>
 
 ---
 
-### 👨‍💻 Executive Summary & Engineering Standards
+# 👨‍💻 About Me
 
-I am a results-driven **Full-Stack Web Developer** committed to modern web standards, software architecture, and continuous technical growth.
+```ts
+const forhadShorif = {
+  role: "Full-Stack Web Developer",
 
-- 🔭 **Core Focus:** Building high-speed, secure web apps using **React, Next.js, Node.js, and Express**.
-- 🌱 **Current Exploration:** Microservices Architecture, Advanced TypeScript Patterns, and Backend Scaling.
-- 🎯 **Engineering Discipline:**
-  - ⚙️ **Conventional Commits:** Standardized Git history (`feat:`, `fix:`, `refactor:`).
-  - 🎨 **Zero-Placeholder UI:** Clean, pixel-perfect layout implementation with true production data.
-  - 🔒 **Clean Architecture:** Modular code design, RESTful design principles, and strict state isolation.
+  frontend: [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "TypeScript",
+    "React",
+    "Next.js",
+    "Tailwind CSS"
+  ],
+
+  backend: [
+    "Node.js",
+    "Express.js",
+    "REST API"
+  ],
+
+  database: [
+    "MongoDB"
+  ],
+
+  currentlyLearning: [
+    "Advanced TypeScript",
+    "Next.js",
+    "Backend Development",
+    "System Design"
+  ],
+
+  mindset: "Understand → Build → Debug → Improve"
+};
+```
+
+I enjoy transforming ideas into **clean, responsive and scalable web applications**.
+
+My goal is not only to write code that works, but to understand **why it works**, keep improving my fundamentals, and build software that is easier to maintain.
 
 ---
 
-### 🛠️ Tech Stack & Capabilities
+# ⚡ Tech Stack
 
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="33%" valign="top">
-      <h3>🎨 Frontend Mastery</h3>
-      <p>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="36" height="36" alt="React" />
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="36" height="36" alt="Next.js" />
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="36" height="36" alt="TypeScript" />
-        <br />
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="36" height="36" alt="JS" />
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="36" height="36" alt="Tailwind" />
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="36" height="36" alt="HTML5" />
-      </p>
-    </td>
-    <td align="center" width="33%" valign="top">
-      <h3>⚙️ Backend & Database</h3>
-      <p>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="36" height="36" alt="NodeJS" />
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="36" height="36" alt="Express" />
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="36" height="36" alt="MongoDB" />
-        <br />
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="36" height="36" alt="Firebase" />
-        <img src="https://jwt.io/img/pic_logo.svg" width="36" height="36" alt="JWT" />
-      </p>
-    </td>
-    <td align="center" width="33%" valign="top">
-      <h3>🛠️️ Tools & Hosting</h3>
-      <p>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="36" height="36" alt="Git" />
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="36" height="36" alt="VSCode" />
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="36" height="36" alt="Postman" />
-        <br />
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" width="36" height="36" alt="Vercel" />
-        <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" width="36" height="36" alt="Netlify" />
-      </p>
-    </td>
-  </tr>
+<div align="center">
+
+### 🎨 Frontend
+
+<table>
+<tr>
+
+<td align="center" width="110">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45"/>
+
+<br/>
+
+<b>HTML5</b>
+
+</td>
+
+<td align="center" width="110">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45"/>
+
+<br/>
+
+<b>CSS3</b>
+
+</td>
+
+<td align="center" width="110">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/>
+
+<br/>
+
+<b>JavaScript</b>
+
+</td>
+
+<td align="center" width="110">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45"/>
+
+<br/>
+
+<b>TypeScript</b>
+
+</td>
+
+<td align="center" width="110">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45"/>
+
+<br/>
+
+<b>React</b>
+
+</td>
+
+<td align="center" width="110">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="45"/>
+
+<br/>
+
+<b>Next.js</b>
+
+</td>
+
+<td align="center" width="110">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="45"/>
+
+<br/>
+
+<b>Tailwind</b>
+
+</td>
+
+</tr>
 </table>
 
----
+<br/>
 
-### 🚀 Hover-Card Featured Showcase
+### ⚙️ Backend & Database
 
-<div align="center">
-  <table width="100%">
-    <tr>
-      <td width="50%" align="center">
-        <a href="YOUR_PORTFOLIO_URL">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Forhad-Shorif&repo=Dev-Stack-Showcase&theme=tokyonight&border_radius=10" width="100%" alt="Featured Repo 1" />
-        </a>
-      </td>
-      <td width="50%" align="center">
-        <a href="YOUR_PORTFOLIO_URL">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Forhad-Shorif&repo=Book-Vibe&theme=tokyonight&border_radius=10" width="100%" alt="Featured Repo 2" />
-        </a>
-      </td>
-    </tr>
-  </table>
+<table>
+<tr>
+
+<td align="center" width="140">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="48"/>
+
+<br/>
+
+<b>Node.js</b>
+
+</td>
+
+<td align="center" width="140">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="48"/>
+
+<br/>
+
+<b>Express.js</b>
+
+</td>
+
+<td align="center" width="140">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="48"/>
+
+<br/>
+
+<b>MongoDB</b>
+
+</td>
+
+<td align="center" width="140">
+
+<img src="https://jwt.io/img/pic_logo.svg" width="48"/>
+
+<br/>
+
+<b>JWT</b>
+
+</td>
+
+<td align="center" width="140">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="48"/>
+
+<br/>
+
+<b>Firebase</b>
+
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+### 🧰 Tools & Platforms
+
+<table>
+<tr>
+
+<td align="center" width="130">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/>
+
+<br/>
+
+<b>Git</b>
+
+</td>
+
+<td align="center" width="130">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45"/>
+
+<br/>
+
+<b>GitHub</b>
+
+</td>
+
+<td align="center" width="130">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45"/>
+
+<br/>
+
+<b>VS Code</b>
+
+</td>
+
+<td align="center" width="130">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="45"/>
+
+<br/>
+
+<b>Postman</b>
+
+</td>
+
+<td align="center" width="130">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" width="45"/>
+
+<br/>
+
+<b>Vercel</b>
+
+</td>
+
+</tr>
+</table>
+
 </div>
 
 ---
 
-### 📊 Real-Time GitHub Analytics
+# 🚀 Featured Projects
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Forhad-Shorif&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&border_radius=10" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Forhad-Shorif&layout=compact&theme=tokyonight&hide_border=false&border_radius=10" width="48%" alt="Top Languages" />
+
+<table width="100%">
+<tr>
+
+<!-- CARD 01 -->
+
+<td width="50%" align="center">
+
+<a href="https://github.com/Forhad-Shorif/Dev-Stack-Showcase">
+
+<img
+src="https://github-readme-stats.vercel.app/api/pin/?username=Forhad-Shorif&repo=Dev-Stack-Showcase&theme=tokyonight&hide_border=true&border_radius=15"
+/>
+
+</a>
+
+<br/>
+
+### 💻 Dev Stack Showcase
+
+<p>
+Modern developer technology showcase with
+<strong>React + TypeScript</strong>.
+</p>
+
+<a href="https://github.com/Forhad-Shorif/Dev-Stack-Showcase">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-58A6FF?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<!-- CARD 02 -->
+
+<td width="50%" align="center">
+
+<a href="https://github.com/Forhad-Shorif/Book-Vibe">
+
+<img
+src="https://github-readme-stats.vercel.app/api/pin/?username=Forhad-Shorif&repo=Book-Vibe&theme=tokyonight&hide_border=true&border_radius=15"
+/>
+
+</a>
+
+<br/>
+
+### 📚 Book Vibe
+
+<p>
+Responsive book discovery application with
+<strong>modern UI and reusable components</strong>.
+</p>
+
+<a href="https://github.com/Forhad-Shorif/Book-Vibe">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-58A6FF?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
+</table>
+
 </div>
 
-<br />
+<br/>
+
+---
+
+# 🧠 Currently Learning
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Forhad-Shorif&theme=tokyonight&hide_border=false&border_radius=10" width="97%" alt="Streak Stats" />
-</div>
 
-<br />
+<table width="100%">
+<tr>
 
-<!-- Animated Contribution Activity Snake Graph -->
-<div align="center">
-  <h3>🐍 GitHub Contribution Activity</h3>
-  <img src="https://raw.githubusercontent.com/Forhad-Shorif/Forhad-Shorif/output/github-contribution-grid-snake.svg" width="100%" alt="Snake Animation" />
+<td align="center">
+
+### 🔷 TypeScript
+
+Advanced Types
+Generics
+Utility Types
+Type-safe Architecture
+
+</td>
+
+<td align="center">
+
+### ▲ Next.js
+
+App Router
+SSR / SSG / ISR
+Dynamic Routes
+Server Components
+
+</td>
+
+<td align="center">
+
+### 🟢 Backend
+
+Node.js
+Express.js
+REST APIs
+Authentication
+
+</td>
+
+</tr>
+</table>
+
 </div>
 
 ---
 
-### 🤝 Let's Connect & Collaborate
-
-I am always open to discussing new web development projects, remote work opportunities, and software engineering initiatives.
+# 🏗️ Development Mindset
 
 <div align="center">
-  <a href="mailto:your.email@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="YOUR_PORTFOLIO_URL">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  </a>
+
+```text
+                    ┌───────────────┐
+                    │    PROBLEM    │
+                    └───────┬───────┘
+                            ↓
+                    ┌───────────────┐
+                    │    THINK      │
+                    └───────┬───────┘
+                            ↓
+                    ┌───────────────┐
+                    │    DESIGN     │
+                    └───────┬───────┘
+                            ↓
+                    ┌───────────────┐
+                    │     BUILD     │
+                    └───────┬───────┘
+                            ↓
+                    ┌───────────────┐
+                    │  TEST / DEBUG │
+                    └───────┬───────┘
+                            ↓
+                    ┌───────────────┐
+                    │    IMPROVE    │
+                    └───────────────┘
+```
+
 </div>
 
-<br />
+### 💎 Engineering Principles
 
-<!-- 🚀 Footer Animation: Modern and Bold 🚀 -->
+* 🧠 Understand before implementing
+* 🧱 Build reusable components
+* 🔷 Prefer type-safe development
+* 🧹 Keep code readable
+* ♻️ Reduce unnecessary duplication
+* ⚡ Think about performance
+* 📱 Design responsive interfaces
+* 🔐 Consider security
+* 🧪 Test assumptions
+* 📚 Keep learning
+
+---
+
+# 📈 GitHub Analytics
+
 <div align="center">
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=33ccff&height=120&section=footer&text=Fullstack%20Development%20is%20my%20Passion!&fontSize=25&fontAlign=80&fontColor=ffffff&animation=fadeIn&stroke=33ccff&strokeWidth=1" />
-        <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=2188ff&height=120&section=footer&text=Fullstack%20Development%20is%20my%20Passion!&fontSize=25&fontAlign=80&fontColor=ffffff&animation=fadeIn&stroke=2188ff&strokeWidth=1" />
-        <img src="https://capsule-render.vercel.app/api?type=waving&color=33ccff&height=120&section=footer&text=Fullstack%20Development%20is%20my%20Passion!&fontSize=25&fontAlign=80&fontColor=ffffff&animation=fadeIn" alt="Animated Footer Wave" />
-    </picture>
+
+<img
+src="https://github-readme-stats.vercel.app/api?username=Forhad-Shorif&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&border_radius=15"
+width="49%"
+/>
+
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Forhad-Shorif&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"
+width="49%"
+/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img
+src="https://github-readme-streak-stats.herokuapp.com/?user=Forhad-Shorif&theme=tokyonight&hide_border=true&border_radius=15"
+width="96%"
+/>
+
+</div>
+
+---
+
+# 🐍 Contribution Activity
+
+<div align="center">
+
+<img
+src="https://raw.githubusercontent.com/Forhad-Shorif/Forhad-Shorif/output/github-contribution-grid-snake.svg"
+width="100%"
+alt="Contribution Snake"
+/>
+
+</div>
+
+---
+
+# 🛣️ My Development Journey
+
+<div align="center">
+
+```text
+HTML
+  ↓
+CSS
+  ↓
+JavaScript
+  ↓
+TypeScript
+  ↓
+React
+  ↓
+Next.js
+  ↓
+Node.js
+  ↓
+Express.js
+  ↓
+Database
+  ↓
+Authentication
+  ↓
+Production Applications
+```
+
+</div>
+
+<br/>
+
+> **Learn deeply. Build consistently. Improve continuously.**
+
+---
+
+# 🎯 Current Goals
+
+<div align="center">
+
+| 🚀 Goal                 | Status |
+| ----------------------- | :----: |
+| JavaScript Fundamentals |   🟢   |
+| TypeScript              |   🟡   |
+| React                   |   🟡   |
+| Next.js                 |   🟡   |
+| Node.js                 |   🔵   |
+| Express.js              |   🔵   |
+| MongoDB                 |   🔵   |
+| Authentication          |    ⚪   |
+| System Design           |    ⚪   |
+| Production Applications |    ⚪   |
+
+</div>
+
+<br/>
+
+**Legend**
+
+`🟢 Strong Foundation`    `🟡 Learning`    `🔵 Exploring`    `⚪ Planned`
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+<p>
+Have an idea, project or collaboration in mind?
+<br/>
+Let's build something meaningful.
+</p>
+
+<br/>
+
+<a href="mailto:your.email@gmail.com">
+<img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="YOUR_PORTFOLIO_URL">
+<img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1500&color=58A6FF&center=true&vCenter=true&width=600&height=40&lines=Thanks+for+visiting+my+profile+%F0%9F%92%99;Let's+build+something+great+%F0%9F%9A%80"
+/>
+
+</div>
+
+<br/>
+
+<!-- FOOTER -->
+
+<div align="center">
+
+<img
+src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:58A6FF&height=140&section=footer&text=Keep%20Building%20%F0%9F%9A%80&fontSize=30&fontColor=ffffff&animation=fadeIn"
+/>
+
 </div>
