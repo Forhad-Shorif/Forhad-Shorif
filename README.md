@@ -1,35 +1,39 @@
 <div align="left">
-  <p>
-    <sup>
-      <a href="https://github.com/Forhad-Shorif/Forhad-Shorif/blob/main/README.md">
-        Forhad-Shorif / README.md
-      </a>
-    </sup>
+  <p style="font-size: 11px; margin-bottom: 0px;">
+    <a href="https://github.com/Forhad-Shorif/Forhad-Shorif/blob/main/README.md">
+      Forhad-Shorif / README.md
+    </a>
   </p>
 </div>
 
 <div align="center">
 
-  <!-- Dynamic Header Banner (Bigger Name + Text Animation) -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,24,30&height=220&section=header&text=Forhad%20Shorif&fontSize=60&fontColor=58A6FF&animation=twinkling&desc=Full-Stack%20Web%20Developer&descSize=18&descAlignY=75" width="100%" alt="Header Banner" />
+  <!-- Dynamic Header Banner (Gradient Background) -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,24,30&height=180&section=header&animation=twinkling" width="100%" alt="Header Banner" />
 
   <br/>
 
-  <!-- Typing SVG Animation -->
+  <!-- Large Animated Changing-Color Name -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&height=50&lines=Hi+There!+%F0%9F%91%8B+I'm+Forhad+Shorif;Full-Stack+Web+Developer+%F0%9F%9A%80;React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript+%E2%80%A2+Tailwind;Turning+Ideas+Into+Modern+Web+Experiences;Think+%E2%80%A2+Build+%E2%80%A2+Debug+%E2%80%A2+Improve" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=55&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&height=70&lines=Forhad+Shorif;%E2%9C%A8+Forhad+Shorif+%E2%9C%A8" alt="Name SVG" />
   </a>
 
   <br/>
 
-  <!-- Stylish Tagline Box -->
+  <!-- Subtitle Typing SVG -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&width=700&height=40&lines=Full-Stack+Web+Developer+%F0%9F%9A%80;React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript+%E2%80%A2+Tailwind;Turning+Ideas+Into+Modern+Web+Experiences" alt="Typing SVG" />
+  </a>
+
+  <br/>
+
   <p>
     <code> Passioned about building modern, responsive, and user-focused web applications.</code>
   </p>
 
   <br/>
 
-  <!-- Social Links with Custom Badges -->
+  <!-- Social Links -->
   <p>
     <a href="YOUR_PORTFOLIO_URL" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-161B22?style=for-the-badge&logo=vercel&logoColor=58A6FF" alt="Portfolio" />
@@ -44,14 +48,14 @@
     </a>
   </p>
 
-  <!-- Profile Views counter -->
+  <!-- Profile Views -->
   <p>
     <img src="https://komarev.com/ghpvc/?username=Forhad-Shorif&label=PROFILE%20VIEWS&color=58A6FF&style=for-the-badge" alt="Profile Views" />
   </p>
 
   <br/>
 
-  <!-- Curved Divider Line -->
+  <!-- Divider -->
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,10,24,30&height=3" width="100%" alt="divider" />
 
 </div>
