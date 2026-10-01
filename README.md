@@ -30,16 +30,15 @@
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     &nbsp;
-    <a href="mailto:your.email@gmail.com">
+    <a href="forhadshorif79@gmail.com">
       <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
   </p>
 
   <!-- Profile Views -->
- <a href="https://github.com/Forhad-Shorif/Forhad-Shorif">
-  <img src="https://komarev.com/ghpvc/?username=Forhad-Shorif&color=brightgreen&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-</a>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Forhad-Shorif&color=007acc&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
   <br/>
 
   <!-- Divider Line -->
@@ -151,12 +150,6 @@ width="96%"
 <div align="center">
   <img src="https://raw.githubusercontent.com/Forhad-Shorif/Forhad-Shorif/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
-
----
----
-
----
-
 ---
 <!-- Connect Section -->
 <h1 align="center">🤝 Let's Connect</h1>
@@ -171,7 +164,7 @@ width="96%"
 
   <!-- Social Look -->
   <p>
-    <a href="mailto:your.email@gmail.com">
+    <a href="forhadshorif79@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
     </a>
     &nbsp;
