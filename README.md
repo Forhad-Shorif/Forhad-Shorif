@@ -276,152 +276,39 @@ Maintainability
 <div align="center">
 
 <table width="100%">
-<tr>
-
-<td align="center" width="33%">
-
-### 01
-
-# 🌐
-
-### HTML
-
-Semantic Structure
-Accessibility
-Web Fundamentals
-
-</td>
-
-<td align="center" width="33%">
-
-### 02
-
-# 🎨
-
-### CSS
-
-Responsive Design
-Layouts
-Animations
-Modern UI
-
-</td>
-
-<td align="center" width="33%">
-
-### 03
-
-# ⚡
-
-### JavaScript
-
-Logic
-DOM
-ES6+
-Async Programming
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center" width="33%">
-
-### 04
-
-# 🔷
-
-### TypeScript
-
-Types
-Interfaces
-Generics
-Type-safe Development
-
-</td>
-
-<td align="center" width="33%">
-
-### 05
-
-# ⚛️
-
-### React
-
-Components
-Hooks
-State
-Reusable UI
-
-</td>
-
-<td align="center" width="33%">
-
-### 06
-
-# ▲
-
-### Next.js
-
-App Router
-SSR
-SSG
-ISR
-Dynamic Routes
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center" width="33%">
-
-### 07
-
-# 🟢
-
-### Node.js
-
-Server-side JavaScript
-APIs
-Backend Fundamentals
-
-</td>
-
-<td align="center" width="33%">
-
-### 08
-
-# 🗄️
-
-### Database
-
-MongoDB
-Data Modeling
-CRUD
-Database Integration
-
-</td>
-
-<td align="center" width="33%">
-
-### 09
-
-# 
-
-### Production
-
-Real Projects
-Deployment
-Optimization
-Scalable Applications
-
-</td>
-
-</tr>
-
+  <tr>
+    <td align="center" width="33%">
+      <h3>🌐 HTML</h3>
+    </td>
+    <td align="center" width="33%">
+      <h3>🎨 CSS</h3>
+    </td>
+    <td align="center" width="33%">
+      <h3>⚡ JavaScript</h3>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <h3>🔷 TypeScript</h3>
+    </td>
+    <td align="center" width="33%">
+      <h3>⚛️ React</h3>
+    </td>
+    <td align="center" width="33%">
+      <h3>▲ Next.js</h3>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <h3>🟢 Node.js</h3>
+    </td>
+    <td align="center" width="33%">
+      <h3>🗄️ Database</h3>
+    </td>
+    <td align="center" width="33%">
+      <h3>🚀 Production</h3>
+    </td>
+  </tr>
 </table>
 
 <br/>
@@ -430,6 +317,7 @@ Scalable Applications
 
 </div>
 
+---
 ---
 
 # 📈 GitHub Analytics
