@@ -149,15 +149,12 @@ width="96%"
 
 #  Contribution Activity
 
+<!-- 🐍 Contribution Snake -->
 <div align="center">
-
-<img
-src="https://raw.githubusercontent.com/Forhad-Shorif/Forhad-Shorif/output/github-contribution-grid-snake.svg"
-width="100%"
-alt="Contribution Snake"
-/>
-
+  <img src="https://raw.githubusercontent.com/shorif30/shorif30/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
+
+---
 
 ---
 
