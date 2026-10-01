@@ -841,53 +841,44 @@ Improving fundamentals through practice, debugging and real-world projects.
 </div>
 
 ---
-
-# 🤝 Let's Connect
+<!-- Connect Section -->
+<h1 align="center">🤝 Let's Connect</h1>
 
 <div align="center">
 
-<p>
+  <p>
+    <code>Have an idea, project or collaboration in mind? Let's build something meaningful together.</code>
+  </p>
 
-Have an idea, project or collaboration in mind?
+  <br/>
 
-<br/>
+  <!-- Social Look -->
+  <p>
+    <a href="mailto:your.email@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    </a>
+    &nbsp;
+    <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    &nbsp;
+    <a href="YOUR_PORTFOLIO_URL" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-161B22?style=for-the-badge&logo=vercel&logoColor=58A6FF" alt="Portfolio" />
+    </a>
+  </p>
 
-Let's build something meaningful.
+  <br/>
 
-</p>
-
-<br/>
-
-<a href="mailto:your.email@gmail.com">
-<img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-<img
-src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1500&color=58A6FF&center=true&vCenter=true&width=600&height=40&lines=Thanks+for+visiting+my+profile+%F0%9F%92%99;Let's+build+something+great+%F0%9F%9A%80"
-alt="Footer Typing"
-/>
+  <!-- Dynamic Typing SVG Animation -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=40&lines=Thanks+for+visiting+my+profile!+%F0%9F%92%99;Let's+build+something+great+together!+%F0%9F%9A%80" alt="Footer Typing" />
+  </a>
 
 </div>
 
 <br/>
 
----
-
+<!-- Curved Gradient Footer Wave Banner -->
 <div align="center">
-
-<img
-src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:58A6FF&height=140&section=footer&text=Keep%20Building%20%F0%9F%9A%80&fontSize=30&fontColor=ffffff&animation=fadeIn"
-width="100%"
-/>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,24,30&height=150&section=footer&text=Keep%20Building%20%F0%9F%9A%80&fontSize=28&fontColor=ffffff&animation=twinkling" width="100%" alt="Footer Banner" />
 </div>
