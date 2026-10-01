@@ -1,70 +1,44 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                        HERO HEADER                         -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
 <br/>
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&height=65&lines=Hi+There!+I'm+Forhad+Shorif+%F0%9F%91%8B;Full-Stack+Web+Developer+%F0%9F%9A%80;React+%7C+Next.js+%7C+TypeScript;Building+Modern+Web+Applications+%F0%9F%92%BB;Think+%E2%86%92+Build+%E2%86%92+Debug+%E2%86%92+Improve+%E2%9C%A8"
-  alt="Forhad Shorif - Full Stack Web Developer"
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=900&height=70&lines=Hi%2C+I'm+Forhad+Shorif+%F0%9F%91%8B;Full-Stack+Web+Developer+%F0%9F%9A%80;React+%7C+Next.js+%7C+TypeScript;Turning+Ideas+Into+Modern+Web+Experiences;Think+%E2%80%A2+Build+%E2%80%A2+Debug+%E2%80%A2+Improve"
+  alt="Forhad Shorif"
 />
 
 <br/>
 
-<h3>
-  🚀 Full-Stack Web Developer
-</h3>
-
 <p>
-  <em>
-    Building clean, responsive & modern web experiences.
-  </em>
+  <samp>
+    Passionate about building modern, responsive and user-focused web applications.
+  </samp>
 </p>
 
 <p>
-  <strong>Think.</strong>
-  &nbsp;•&nbsp;
-  <strong>Build.</strong>
-  &nbsp;•&nbsp;
-  <strong>Debug.</strong>
-  &nbsp;•&nbsp;
-  <strong>Improve.</strong>
+  <a href="YOUR_PORTFOLIO_URL">
+    <img
+      src="https://img.shields.io/badge/Portfolio-161B22?style=for-the-badge&logo=vercel&logoColor=58A6FF"
+      alt="Portfolio"
+    />
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=0A66C2"
+      alt="LinkedIn"
+    />
+  </a>
+  &nbsp;
+  <a href="mailto:your.email@gmail.com">
+    <img
+      src="https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=EA4335"
+      alt="Email"
+    />
+  </a>
 </p>
 
 <br/>
-
-<!-- ─────────────── SOCIAL CONNECTIONS ─────────────── -->
-
-<a href="YOUR_PORTFOLIO_URL">
-  <img
-    src="https://img.shields.io/badge/🌐%20PORTFOLIO-0D1117?style=for-the-badge&logoColor=58A6FF"
-    alt="Portfolio"
-  />
-</a>
-
-&nbsp;
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
-  <img
-    src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"
-    alt="LinkedIn"
-  />
-</a>
-
-&nbsp;
-
-<a href="mailto:your.email@gmail.com">
-  <img
-    src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=D14836"
-    alt="Email"
-  />
-</a>
-
-<br/><br/>
-
-<!-- ─────────────── PROFILE VIEWS ─────────────── -->
 
 <img
   src="https://komarev.com/ghpvc/?username=Forhad-Shorif&label=PROFILE%20VIEWS&color=58A6FF&style=for-the-badge"
@@ -73,12 +47,10 @@
 
 <br/><br/>
 
-<!-- ─────────────── DIVIDER ─────────────── -->
-
 <img
-  src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:161B22,100:58A6FF&height=3&section=header"
-  width="100%"
-  alt="divider"
+  src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=2"
+  width="90%"
+  alt=""
 />
 
 </div>
