@@ -36,9 +36,9 @@
   </p>
 
   <!-- Profile Views -->
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=Forhad-Shorif&label=PROFILE%20VIEWS&color=58A6FF&style=for-the-badge" alt="Profile Views" />
-  </p>
+ <a href="https://github.com/Forhad-Shorif/Forhad-Shorif">
+  <img src="https://komarev.com/ghpvc/?username=Forhad-Shorif&color=brightgreen&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+</a>
 
   <br/>
 
