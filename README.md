@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- PROFILE IMAGE -->
+<!-- ===================== PROFILE HEADER ===================== -->
 
 <img
 src="https://i.ibb.co.com/x83DGp4p/watermarked-img-11256399587890119527.jpg"
@@ -11,8 +11,6 @@ alt="Forhad Shorif"
 />
 
 <br/><br/>
-
-<!-- TYPING HEADER -->
 
 <img
 src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&height=60&lines=Hi+There!+I'm+Forhad+Shorif+%F0%9F%91%8B;Full-Stack+Web+Developer+%F0%9F%9A%80;React+%7C+Next.js+%7C+TypeScript;Building+Modern+Web+Applications+%F0%9F%92%BB;Learning+Today%2C+Building+Tomorrow+%E2%9C%A8"
@@ -29,7 +27,7 @@ alt="Typing SVG"
 
 <br/>
 
-<!-- SOCIAL BUTTONS -->
+<!-- ===================== SOCIAL BUTTONS ===================== -->
 
 <a href="YOUR_PORTFOLIO_URL">
   <img src="https://img.shields.io/badge/🌐%20PORTFOLIO-0D1117?style=for-the-badge&logoColor=58A6FF"/>
@@ -58,44 +56,40 @@ alt="Profile Views"
 
 # 👨‍💻 About Me
 
-```ts
-const forhadShorif = {
-  role: "Full-Stack Web Developer",
+<div align="center">
 
-  frontend: [
-    "HTML",
-    "CSS",
-    "JavaScript",
-    "TypeScript",
-    "React",
-    "Next.js",
-    "Tailwind CSS"
-  ],
+<table>
+<tr>
+<td width="50%" valign="top">
 
-  backend: [
-    "Node.js",
-    "Express.js",
-    "REST API"
-  ],
+### 🚀 Who I Am
 
-  database: [
-    "MongoDB"
-  ],
+I'm a **Full-Stack Web Developer** focused on building:
 
-  currentlyLearning: [
-    "Advanced TypeScript",
-    "Next.js",
-    "Backend Development",
-    "System Design"
-  ],
+* Clean interfaces
+* Responsive websites
+* Modern React applications
+* Type-safe applications
+* Scalable web solutions
+* Maintainable code
 
-  mindset: "Understand → Build → Debug → Improve"
-};
-```
+</td>
 
-I enjoy transforming ideas into **clean, responsive and scalable web applications**.
+<td width="50%" valign="top">
 
-My goal is not only to write code that works, but to understand **why it works**, keep improving my fundamentals, and build software that is easier to maintain.
+### 🧠 My Philosophy
+
+> **Understand → Build → Debug → Improve**
+
+I don't want to simply write code that works.
+
+I want to understand **why it works**, improve my fundamentals, and continuously become a better developer.
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
@@ -103,79 +97,51 @@ My goal is not only to write code that works, but to understand **why it works**
 
 <div align="center">
 
-### 🎨 Frontend
+## 🎨 Frontend
 
 <table>
 <tr>
 
 <td align="center" width="110">
-
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45"/>
-
 <br/>
-
 <b>HTML5</b>
-
 </td>
 
 <td align="center" width="110">
-
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45"/>
-
 <br/>
-
 <b>CSS3</b>
-
 </td>
 
 <td align="center" width="110">
-
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/>
-
 <br/>
-
 <b>JavaScript</b>
-
 </td>
 
 <td align="center" width="110">
-
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45"/>
-
 <br/>
-
 <b>TypeScript</b>
-
 </td>
 
 <td align="center" width="110">
-
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45"/>
-
 <br/>
-
 <b>React</b>
-
 </td>
 
 <td align="center" width="110">
-
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="45"/>
-
 <br/>
-
 <b>Next.js</b>
-
 </td>
 
 <td align="center" width="110">
-
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="45"/>
-
 <br/>
-
 <b>Tailwind</b>
-
 </td>
 
 </tr>
@@ -183,59 +149,27 @@ My goal is not only to write code that works, but to understand **why it works**
 
 <br/>
 
-### ⚙️ Backend & Database
+## ⚙️ Backend & Database
 
 <table>
 <tr>
 
-<td align="center" width="140">
-
+<td align="center" width="160">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="48"/>
-
 <br/>
-
 <b>Node.js</b>
-
 </td>
 
-<td align="center" width="140">
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="48"/>
-
-<br/>
-
-<b>Express.js</b>
-
-</td>
-
-<td align="center" width="140">
-
+<td align="center" width="160">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="48"/>
-
 <br/>
-
 <b>MongoDB</b>
-
 </td>
 
-<td align="center" width="140">
-
-<img src="https://jwt.io/img/pic_logo.svg" width="48"/>
-
+<td align="center" width="160">
+<img src="https://www.svgrepo.com/show/331488/rest-api.svg" width="48"/>
 <br/>
-
-<b>JWT</b>
-
-</td>
-
-<td align="center" width="140">
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="48"/>
-
-<br/>
-
-<b>Firebase</b>
-
+<b>REST API</b>
 </td>
 
 </tr>
@@ -243,59 +177,33 @@ My goal is not only to write code that works, but to understand **why it works**
 
 <br/>
 
-### 🧰 Tools & Platforms
+## 🧰 Tools & Platforms
 
 <table>
 <tr>
 
-<td align="center" width="130">
-
+<td align="center" width="150">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/>
-
 <br/>
-
 <b>Git</b>
-
 </td>
 
-<td align="center" width="130">
-
+<td align="center" width="150">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45"/>
-
 <br/>
-
 <b>GitHub</b>
-
 </td>
 
-<td align="center" width="130">
-
+<td align="center" width="150">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45"/>
-
 <br/>
-
 <b>VS Code</b>
-
 </td>
 
-<td align="center" width="130">
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="45"/>
-
-<br/>
-
-<b>Postman</b>
-
-</td>
-
-<td align="center" width="130">
-
+<td align="center" width="150">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" width="45"/>
-
 <br/>
-
 <b>Vercel</b>
-
 </td>
 
 </tr>
@@ -312,7 +220,7 @@ My goal is not only to write code that works, but to understand **why it works**
 <table width="100%">
 <tr>
 
-<!-- CARD 01 -->
+<!-- PROJECT 01 -->
 
 <td width="50%" align="center">
 
@@ -329,7 +237,7 @@ src="https://github-readme-stats.vercel.app/api/pin/?username=Forhad-Shorif&repo
 ### 💻 Dev Stack Showcase
 
 <p>
-Modern developer technology showcase with
+Modern developer technology showcase built with
 <strong>React + TypeScript</strong>.
 </p>
 
@@ -339,7 +247,7 @@ Modern developer technology showcase with
 
 </td>
 
-<!-- CARD 02 -->
+<!-- PROJECT 02 -->
 
 <td width="50%" align="center">
 
@@ -382,7 +290,7 @@ Responsive book discovery application with
 <table width="100%">
 <tr>
 
-<td align="center">
+<td align="center" width="50%">
 
 ### 🔷 TypeScript
 
@@ -393,7 +301,7 @@ Type-safe Architecture
 
 </td>
 
-<td align="center">
+<td align="center" width="50%">
 
 ### ▲ Next.js
 
@@ -404,14 +312,162 @@ Server Components
 
 </td>
 
-<td align="center">
+</tr>
+
+<tr>
+
+<td align="center" width="50%">
 
 ### 🟢 Backend
 
 Node.js
-Express.js
 REST APIs
-Authentication
+API Architecture
+Backend Development
+
+</td>
+
+<td align="center" width="50%">
+
+### 🏗️ System Design
+
+Scalable Architecture
+Reusable Systems
+Performance
+Maintainability
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+---
+
+# 🧠 Development Mindset
+
+<div align="center">
+
+<table width="100%">
+<tr>
+
+<td width="33%" align="center">
+
+<h3>🧠 THINK</h3>
+
+<p>
+Understand the problem before writing code.
+</p>
+
+<code>Problem → Analyze → Plan</code>
+
+</td>
+
+<td width="33%" align="center">
+
+<h3>🏗️ BUILD</h3>
+
+<p>
+Turn ideas into clean and reusable solutions.
+</p>
+
+<code>Plan → Code → Structure</code>
+
+</td>
+
+<td width="33%" align="center">
+
+<h3>🐛 DEBUG</h3>
+
+<p>
+Find the actual cause instead of guessing.
+</p>
+
+<code>Error → Investigate → Fix</code>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="33%" align="center">
+
+<h3>🧹 IMPROVE</h3>
+
+<p>
+Refactor code and remove unnecessary complexity.
+</p>
+
+<code>Review → Refactor → Simplify</code>
+
+</td>
+
+<td width="33%" align="center">
+
+<h3>♻️ REUSE</h3>
+
+<p>
+Build components and logic that can be reused.
+</p>
+
+<code>Component → Reuse → Scale</code>
+
+</td>
+
+<td width="33%" align="center">
+
+<h3>📚 LEARN</h3>
+
+<p>
+Keep learning from every problem and project.
+</p>
+
+<code>Learn → Practice → Apply</code>
+
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+<table width="100%">
+<tr>
+
+<td align="center">
+
+### 💎 Engineering Principles
+
+🧠 Understand before implementing
+  •  
+🧱 Build reusable components
+  •  
+🔷 Prefer type-safe development
+  •  
+🧹 Keep code readable
+  •  
+♻️ Reduce duplication
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+⚡ Think about performance
+  •  
+📱 Design responsive interfaces
+  •  
+🔐 Consider security
+  •  
+🧪 Test assumptions
+  •  
+📚 Keep learning
 
 </td>
 
@@ -422,50 +478,316 @@ Authentication
 
 ---
 
-# 🏗️ Development Mindset
+# 🛣️ Development Journey
 
 <div align="center">
 
+<table width="100%">
+<tr>
+
+<td align="center" width="33%">
+
+### 01
+
+# 🌐
+
+### HTML
+
+Semantic Structure
+Accessibility
+Web Fundamentals
+
+</td>
+
+<td align="center" width="33%">
+
+### 02
+
+# 🎨
+
+### CSS
+
+Responsive Design
+Layouts
+Animations
+Modern UI
+
+</td>
+
+<td align="center" width="33%">
+
+### 03
+
+# ⚡
+
+### JavaScript
+
+Logic
+DOM
+ES6+
+Async Programming
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="33%">
+
+### 04
+
+# 🔷
+
+### TypeScript
+
+Types
+Interfaces
+Generics
+Type-safe Development
+
+</td>
+
+<td align="center" width="33%">
+
+### 05
+
+# ⚛️
+
+### React
+
+Components
+Hooks
+State
+Reusable UI
+
+</td>
+
+<td align="center" width="33%">
+
+### 06
+
+# ▲
+
+### Next.js
+
+App Router
+SSR
+SSG
+ISR
+Dynamic Routes
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="33%">
+
+### 07
+
+# 🟢
+
+### Node.js
+
+Server-side JavaScript
+APIs
+Backend Fundamentals
+
+</td>
+
+<td align="center" width="33%">
+
+### 08
+
+# 🗄️
+
+### Database
+
+MongoDB
+Data Modeling
+CRUD
+Database Integration
+
+</td>
+
+<td align="center" width="33%">
+
+### 09
+
+# 🚀
+
+### Production
+
+Real Projects
+Deployment
+Optimization
+Scalable Applications
+
+</td>
+
+</tr>
+
+</table>
+
+<br/>
+
+### 🔥 Journey Principle
+
 ```text
-                    ┌───────────────┐
-                    │    PROBLEM    │
-                    └───────┬───────┘
-                            ↓
-                    ┌───────────────┐
-                    │    THINK      │
-                    └───────┬───────┘
-                            ↓
-                    ┌───────────────┐
-                    │    DESIGN     │
-                    └───────┬───────┘
-                            ↓
-                    ┌───────────────┐
-                    │     BUILD     │
-                    └───────┬───────┘
-                            ↓
-                    ┌───────────────┐
-                    │  TEST / DEBUG │
-                    └───────┬───────┘
-                            ↓
-                    ┌───────────────┐
-                    │    IMPROVE    │
-                    └───────────────┘
+LEARN
+   ↓
+UNDERSTAND
+   ↓
+PRACTICE
+   ↓
+BUILD
+   ↓
+DEBUG
+   ↓
+IMPROVE
+   ↓
+SHIP
 ```
+
+<br/>
+
+> **Learn deeply. Build consistently. Improve continuously.**
 
 </div>
 
-### 💎 Engineering Principles
+---
 
-* 🧠 Understand before implementing
-* 🧱 Build reusable components
-* 🔷 Prefer type-safe development
-* 🧹 Keep code readable
-* ♻️ Reduce unnecessary duplication
-* ⚡ Think about performance
-* 📱 Design responsive interfaces
-* 🔐 Consider security
-* 🧪 Test assumptions
-* 📚 Keep learning
+# 🎯 Current Goals
+
+<div align="center">
+
+<table width="100%">
+
+<tr>
+
+<td align="center" width="20%">
+
+### 🟢
+
+**JavaScript**
+
+Strong Foundation
+
+</td>
+
+<td align="center" width="20%">
+
+### 🟡
+
+**TypeScript**
+
+Learning
+
+</td>
+
+<td align="center" width="20%">
+
+### 🟡
+
+**React**
+
+Learning
+
+</td>
+
+<td align="center" width="20%">
+
+### 🟡
+
+**Next.js**
+
+Learning
+
+</td>
+
+<td align="center" width="20%">
+
+### 🔵
+
+**Node.js**
+
+Exploring
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="20%">
+
+### 🔵
+
+**MongoDB**
+
+Exploring
+
+</td>
+
+<td align="center" width="20%">
+
+### 🔵
+
+**Backend**
+
+Exploring
+
+</td>
+
+<td align="center" width="20%">
+
+### ⚪
+
+**Authentication**
+
+Planned
+
+</td>
+
+<td align="center" width="20%">
+
+### ⚪
+
+**System Design**
+
+Planned
+
+</td>
+
+<td align="center" width="20%">
+
+### ⚪
+
+**Production Apps**
+
+Planned
+
+</td>
+
+</tr>
+
+</table>
+
+<br/>
+
+### Status
+
+`🟢 Strong Foundation`
+  
+`🟡 Learning`
+  
+`🔵 Exploring`
+  
+`⚪ Planned`
+
+</div>
 
 ---
 
@@ -483,11 +805,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Forhad-Shori
 width="49%"
 />
 
-</div>
-
-<br/>
-
-<div align="center">
+<br/><br/>
 
 <img
 src="https://github-readme-streak-stats.herokuapp.com/?user=Forhad-Shorif&theme=tokyonight&hide_border=true&border_radius=15"
@@ -512,66 +830,41 @@ alt="Contribution Snake"
 
 ---
 
-# 🛣️ My Development Journey
+# 🚀 What I'm Building
 
 <div align="center">
 
-```text
-HTML
-  ↓
-CSS
-  ↓
-JavaScript
-  ↓
-TypeScript
-  ↓
-React
-  ↓
-Next.js
-  ↓
-Node.js
-  ↓
-Express.js
-  ↓
-Database
-  ↓
-Authentication
-  ↓
-Production Applications
-```
+<table width="100%">
+<tr>
+
+<td align="center" width="33%">
+
+### 💻 Modern Web Apps
+
+Building responsive and interactive applications using modern frontend technologies.
+
+</td>
+
+<td align="center" width="33%">
+
+### 🧩 Reusable Systems
+
+Creating reusable components, utilities and scalable project structures.
+
+</td>
+
+<td align="center" width="33%">
+
+### 📚 Continuous Learning
+
+Improving fundamentals through practice, debugging and real-world projects.
+
+</td>
+
+</tr>
+</table>
 
 </div>
-
-<br/>
-
-> **Learn deeply. Build consistently. Improve continuously.**
-
----
-
-# 🎯 Current Goals
-
-<div align="center">
-
-| 🚀 Goal                 | Status |
-| ----------------------- | :----: |
-| JavaScript Fundamentals |   🟢   |
-| TypeScript              |   🟡   |
-| React                   |   🟡   |
-| Next.js                 |   🟡   |
-| Node.js                 |   🔵   |
-| Express.js              |   🔵   |
-| MongoDB                 |   🔵   |
-| Authentication          |    ⚪   |
-| System Design           |    ⚪   |
-| Production Applications |    ⚪   |
-
-</div>
-
-<br/>
-
-**Legend**
-
-`🟢 Strong Foundation`    `🟡 Learning`    `🔵 Exploring`    `⚪ Planned`
 
 ---
 
@@ -580,9 +873,13 @@ Production Applications
 <div align="center">
 
 <p>
+
 Have an idea, project or collaboration in mind?
+
 <br/>
+
 Let's build something meaningful.
+
 </p>
 
 <br/>
@@ -603,18 +900,20 @@ Let's build something meaningful.
 
 <img
 src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1500&color=58A6FF&center=true&vCenter=true&width=600&height=40&lines=Thanks+for+visiting+my+profile+%F0%9F%92%99;Let's+build+something+great+%F0%9F%9A%80"
+alt="Footer Typing"
 />
 
 </div>
 
 <br/>
 
-<!-- FOOTER -->
+---
 
 <div align="center">
 
 <img
 src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:58A6FF&height=140&section=footer&text=Keep%20Building%20%F0%9F%9A%80&fontSize=30&fontColor=ffffff&animation=fadeIn"
+width="100%"
 />
 
 </div>
