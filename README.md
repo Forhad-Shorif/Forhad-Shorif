@@ -603,42 +603,6 @@ alt="Contribution Snake"
 
 ---
 
-#  What I'm Building
-
-<div align="center">
-
-<table width="100%">
-<tr>
-
-<td align="center" width="33%">
-
-### 💻 Modern Web Apps
-
-Building responsive and interactive applications using modern frontend technologies.
-
-</td>
-
-<td align="center" width="33%">
-
-### 🧩 Reusable Systems
-
-Creating reusable components, utilities and scalable project structures.
-
-</td>
-
-<td align="center" width="33%">
-
-### 📚 Continuous Learning
-
-Improving fundamentals through practice, debugging and real-world projects.
-
-</td>
-
-</tr>
-</table>
-
-</div>
-
 ---
 <!-- Connect Section -->
 <h1 align="center">🤝 Let's Connect</h1>
