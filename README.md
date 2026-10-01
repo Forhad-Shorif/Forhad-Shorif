@@ -53,38 +53,36 @@
 
 <div align="center">
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-###  Who I Am
+### 🎯 Who I Am
+I'm a passionate **Full-Stack Web Developer** specializing in modern, high-performance web applications.
 
-I'm a **Full-Stack Web Developer** focused on building:
-
-* Clean interfaces
-* Responsive websites
-* Modern React applications
-* Type-safe applications
-* Scalable web solutions
-* Maintainable code
+* 🎨 **Clean & Dynamic Interfaces**
+* 📱 **Fully Responsive Layouts**
+* ⚡ **Modern React & Next.js Ecosystem**
+* 🛡️ **Type-safe & Maintainable Code**
+* 🚀 **Scalable Web Solutions**
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🧠 My Philosophy
+### 🧠 My Work Philosophy
 
-> **Understand → Build → Debug → Improve**
+> **Understand → Build → Optimize → Scale**
 
-I don't want to simply write code that works.
-
-I want to understand **why it works**, improve my fundamentals, and continuously become a better developer.
+I don't just write code that works—I craft efficient, high-quality, and scalable web experiences that solve real-world problems for users and businesses.
 
 </td>
 </tr>
 </table>
 
 </div>
+
+---
 
 ---
 # ⚡ Tech Stack
