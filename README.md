@@ -1,7 +1,5 @@
 <div align="center">
-
-<!-- ===================== PROFILE HEADER ===================== -->
-
+<!-- Header -->
 <img
 src="https://i.ibb.co.com/x83DGp4p/watermarked-img-11256399587890119527.jpg"
 width="175"
@@ -27,7 +25,7 @@ alt="Typing SVG"
 
 <br/>
 
-<!-- ===================== SOCIAL BUTTONS ===================== -->
+<!--Sosial link -->
 
 <a href="YOUR_PORTFOLIO_URL">
   <img src="https://img.shields.io/badge/🌐%20PORTFOLIO-0D1117?style=for-the-badge&logoColor=58A6FF"/>
@@ -630,26 +628,6 @@ Scalable Applications
 </tr>
 
 </table>
-
-<br/>
-
-### 🔥 Journey Principle
-
-```text
-LEARN
-   ↓
-UNDERSTAND
-   ↓
-PRACTICE
-   ↓
-BUILD
-   ↓
-DEBUG
-   ↓
-IMPROVE
-   ↓
-SHIP
-```
 
 <br/>
 
