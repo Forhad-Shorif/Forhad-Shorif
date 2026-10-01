@@ -472,7 +472,7 @@ Keep learning from every problem and project.
 
 ---
 
-# 🛣️ Development Journey
+# Development Journey
 
 <div align="center">
 
@@ -633,7 +633,7 @@ Scalable Applications
 
 ---
 
-# 🎯 Current Goals
+#  Current Goals
 
 <div align="center">
 
