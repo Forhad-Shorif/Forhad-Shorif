@@ -1,14 +1,17 @@
 <div align="left">
-  <h3>
-    <a href="https://github.com/Forhad-Shorif/Forhad-Shorif">
-      Forhad-Shorif / README.md
-    </a>
-  </h3>
+  <p>
+    <sup>
+      <a href="https://github.com/Forhad-Shorif/Forhad-Shorif/blob/main/README.md">
+        Forhad-Shorif / README.md
+      </a>
+    </sup>
+  </p>
 </div>
+
 <div align="center">
 
-  <!-- Dynamic Header Banner (Image visual visual touch) -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,24,30&height=200&section=header&text=Forhad%20Shorif&fontSize=42&fontColor=58A6FF&animation=twinkling&desc=Full-Stack%20Web%20Developer&descSize=18&descAlignY=75" width="100%" alt="Header Banner" />
+  <!-- Dynamic Header Banner (Bigger Name + Text Animation) -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,24,30&height=220&section=header&text=Forhad%20Shorif&fontSize=60&fontColor=58A6FF&animation=twinkling&desc=Full-Stack%20Web%20Developer&descSize=18&descAlignY=75" width="100%" alt="Header Banner" />
 
   <br/>
 
@@ -21,7 +24,7 @@
 
   <!-- Stylish Tagline Box -->
   <p>
-    <code> Passionate about building modern, responsive, and user-focused web applications.</code>
+    <code> Passioned about building modern, responsive, and user-focused web applications.</code>
   </p>
 
   <br/>
@@ -41,7 +44,7 @@
     </a>
   </p>
 
-  <!-- Profile Views counter with stylish border -->
+  <!-- Profile Views counter -->
   <p>
     <img src="https://komarev.com/ghpvc/?username=Forhad-Shorif&label=PROFILE%20VIEWS&color=58A6FF&style=for-the-badge" alt="Profile Views" />
   </p>
