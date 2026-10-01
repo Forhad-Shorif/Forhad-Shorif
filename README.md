@@ -271,54 +271,6 @@ Maintainability
 </div>
 
 ---
-# Development Journey
-
-<div align="center">
-
-<table width="100%">
-  <tr>
-    <td align="center" width="33%">
-      <h3>🌐 HTML</h3>
-    </td>
-    <td align="center" width="33%">
-      <h3>🎨 CSS</h3>
-    </td>
-    <td align="center" width="33%">
-      <h3>⚡ JavaScript</h3>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="33%">
-      <h3>🔷 TypeScript</h3>
-    </td>
-    <td align="center" width="33%">
-      <h3>⚛️ React</h3>
-    </td>
-    <td align="center" width="33%">
-      <h3>▲ Next.js</h3>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="33%">
-      <h3>🟢 Node.js</h3>
-    </td>
-    <td align="center" width="33%">
-      <h3>🗄️ Database</h3>
-    </td>
-    <td align="center" width="33%">
-      <h3>🚀 Production</h3>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-> **Learn deeply. Build consistently. Improve continuously.**
-
-</div>
-
----
----
 
 # 📈 GitHub Analytics
 
