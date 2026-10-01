@@ -1,5 +1,5 @@
 <div align="left">
-  <p style="font-size: 11px; margin-bottom: 0px;">
+  <p style="font-size: 10px;">
     <a href="https://github.com/Forhad-Shorif/Forhad-Shorif/blob/main/README.md">
       Forhad-Shorif / README.md
     </a>
@@ -8,27 +8,14 @@
 
 <div align="center">
 
-  <!-- Dynamic Header Banner (Gradient Background) -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,24,30&height=180&section=header&animation=twinkling" width="100%" alt="Header Banner" />
+  <!-- Height 280px, Mixed Animated Gradient, Wave Banner with Large Name -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,24,30&height=280&section=header&text=Forhad%20Shorif&fontSize=70&fontColor=FFFFFF&animation=twinkling&desc=Full-Stack%20Web%20Developer&descSize=20&descAlignY=72" width="100%" alt="Header Banner" />
 
   <br/>
 
-  <!-- Large Animated Changing-Color Name -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=55&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&height=70&lines=Forhad+Shorif;%E2%9C%A8+Forhad+Shorif+%E2%9C%A8" alt="Name SVG" />
-  </a>
-
-  <br/>
-
-  <!-- Subtitle Typing SVG -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&width=700&height=40&lines=Full-Stack+Web+Developer+%F0%9F%9A%80;React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript+%E2%80%A2+Tailwind;Turning+Ideas+Into+Modern+Web+Experiences" alt="Typing SVG" />
-  </a>
-
-  <br/>
-
+  <!-- Tagline -->
   <p>
-    <code> Passioned about building modern, responsive, and user-focused web applications.</code>
+    <code> Passionate about building modern, responsive, and user-focused web applications.</code>
   </p>
 
   <br/>
@@ -55,7 +42,7 @@
 
   <br/>
 
-  <!-- Divider -->
+  <!-- Divider Line -->
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,10,24,30&height=3" width="100%" alt="divider" />
 
 </div>
