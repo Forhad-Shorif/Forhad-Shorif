@@ -14,7 +14,7 @@
 
   <!-- Stylish Tagline Box -->
   <p>
-    <code>🚀 Passionate about building modern, responsive, and user-focused web applications.</code>
+    <code> Passionate about building modern, responsive, and user-focused web applications.</code>
   </p>
 
   <br/>
@@ -56,7 +56,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🚀 Who I Am
+###  Who I Am
 
 I'm a **Full-Stack Web Developer** focused on building:
 
@@ -207,7 +207,7 @@ I want to understand **why it works**, improve my fundamentals, and continuously
 
 ---
 
-# 🚀 Featured Projects
+#  Featured Projects
 
 <div align="center">
 
@@ -610,7 +610,7 @@ Database Integration
 
 ### 09
 
-# 🚀
+# 
 
 ### Production
 
@@ -790,7 +790,7 @@ width="96%"
 
 ---
 
-# 🐍 Contribution Activity
+#  Contribution Activity
 
 <div align="center">
 
@@ -804,7 +804,7 @@ alt="Contribution Snake"
 
 ---
 
-# 🚀 What I'm Building
+#  What I'm Building
 
 <div align="center">
 
@@ -869,7 +869,7 @@ Improving fundamentals through practice, debugging and real-world projects.
 
   <br/>
 
-  <!-- Dynamic Typing SVG Animation -->
+  <!-- Dynamic Animation -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=40&lines=Thanks+for+visiting+my+profile!+%F0%9F%92%99;Let's+build+something+great+together!+%F0%9F%9A%80" alt="Footer Typing" />
   </a>
@@ -878,7 +878,7 @@ Improving fundamentals through practice, debugging and real-world projects.
 
 <br/>
 
-<!-- Curved Gradient Footer Wave Banner -->
+<!-- Footer Banner -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,24,30&height=150&section=footer&text=Keep%20Building%20%F0%9F%9A%80&fontSize=28&fontColor=ffffff&animation=twinkling" width="100%" alt="Footer Banner" />
 </div>
