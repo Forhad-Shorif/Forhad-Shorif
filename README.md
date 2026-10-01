@@ -1,13 +1,5 @@
 <div align="center">
 <!-- Header -->
-<img
-src="https://i.ibb.co.com/x83DGp4p/watermarked-img-11256399587890119527.jpg"
-width="175"
-height="175"
-style="border-radius:50%;"
-alt="Forhad Shorif"
-/>
-
 <br/><br/>
 
 <img
